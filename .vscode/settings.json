@@ -1,0 +1,8 @@
+{
+  "npm-scripts.showStartNotification": false,
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact"
+  }
+}
